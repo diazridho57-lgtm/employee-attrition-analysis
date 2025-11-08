@@ -1,0 +1,13 @@
+# Ini adalah metode untuk memilih file yang tidak kita kirim ke github
+# Ignore virtual environment
+.venv/
+
+# Ignore data files (terlalu besar)
+Data/raw/
+
+# Ignore temporary files
+__pycache__/
+*.pyc
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
